@@ -1,1 +1,1 @@
-Front door to OSG's [Open Science Pool](https://opensciencegrid.org/about/open_science_pool/). Documentation at [https://support.opensciencegrid.org](https://support.opensciencegrid.org)
+Front door to OSG's [Open Science Pool](https://opensciencegrid.org/about/open_science_pool/).  [Learn more about what is available for running high throughput computing workloads](https://www.youtube.com/watch?v=5FMAFxROGv0)
